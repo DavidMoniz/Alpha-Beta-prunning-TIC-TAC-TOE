@@ -25,4 +25,4 @@ And for the Minmizer player(you):
                       
 P.S - For fun, run the game and comment the code I mentioned above on the AlphaBetaPrunning and check on the console the difference on number of iterations necessary to get a solution. From tens of thousands to a few thousands.
 
-Any questions about the algorithm, send me a message. 
+Any questions about the algorithm, send me a message.
